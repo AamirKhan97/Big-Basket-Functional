@@ -1,0 +1,115 @@
+body{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.btn-info , .bg-info {
+    background: linear-gradient(50deg,#90a4ae,#263238);
+    }
+    .btn-primary , .bg-primary{
+        background: linear-gradient(50deg,#1a237e,#42a5f5);
+    }
+    .btn-secondary , .bg-secondary{
+        background: linear-gradient(50deg,#4a148c,#7e57c2);
+    }
+    .btn-success , .bg-success{
+        background: linear-gradient(50deg,#004d40,#388e3c);
+    }
+    .btn-warning , .bg-warning{
+        background: linear-gradient(50deg, #e65100,#ff8a65);
+    }
+    .btn-danger , .bg-danger{
+        background: linear-gradient(50deg,#d50000,#ef5350);
+    }
+    .btn-dark , .bg-dark{
+        background: linear-gradient(50deg,#000,#616161);
+    }
+    .btn-light , .bg-light{
+        background: linear-gradient(50deg,#90a4ae,#607d8b);
+    }
+    .btn-white , .bg-white{
+        background: linear-gradient(50deg,white);
+    }
+    /* My own custom Class*/
+    .btn-NF , .bg-NF {
+        background: linear-gradient(50deg,#c6ff00,#b2ff59);
+    }
+    .btn-PR , .bg-PR {
+        background: linear-gradient(50deg, #ff1744,#880e4f);
+    }
+    .btn-BF , .bg-BF {
+        background: linear-gradient(50deg,#3e2723,#795548);
+    }
+    .btn-DF , .bg-DF {
+        background: linear-gradient(50deg,#ffff00,#eeff41);
+    }
+    .btn-TS , .bg-TS {
+        background: linear-gradient(50deg,#004d40,#4db6ac);
+    }
+    .btn-SS , .bg-SS {
+        background: linear-gradient(50deg,#18ffff,#84ffff);
+    }
+    .btn-MS , .bg-MS {
+        background: linear-gradient(50deg,#00e676,#b2ff59);
+    }
+    .btn-PP , .bg-PP {
+        background: linear-gradient(50deg,#4a148c,#f06292);
+    }
+    /*text colors*/
+    .text-NF{
+        color:#c6ff00 ;
+    }
+    .text-MS{
+        color:#00e676 ;
+    }
+    .text-PR{
+        color:#ff1744 ;
+    }
+
+    .text-BF{
+        color:#3e2723 ;
+    }
+
+    .text-DF{
+        color:#ffff00 ;
+    }
+   .text-TS{
+        color:#004d40 ;
+    }
+    .text-SS{
+        color:#18ffff ;
+    }
+    .text-PF{
+        color:#4a148c ;
+    }
+    .text-SS{
+        color:#18ffff ;
+    }
+
+    
+    .underline{
+        text-decoration: underline;
+    }
+    /*cards section */
+    .cards{
+        height: 400px;
+        width: 400px;
+    }
+
+    
+.landingPage{
+    background: url("../src/assets/bg.jpg")no-repeat scroll center;
+    height : 100vh;
+    background-size: cover;
+} 
+.wrapper{
+    background-color: rgba(0,0, 0,0.6);
+    height: 100%;
+}
+.faded{
+    background :linear-gradient(45deg, #1a237e,#42a5f5);
+    padding: 5px;
+}
+ 
+/*footer*/
+/* .footerLand{
+    background: url("../src/assets/landingpage\ \(3\).JPG");
+/* } */ 
